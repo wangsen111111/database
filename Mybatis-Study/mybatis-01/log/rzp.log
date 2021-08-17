@@ -1,0 +1,3 @@
+[INFO][21-07-27][com.wang.dao.UserMapperTest]info:进入了testLog4j
+[DEBUG][21-07-27][com.wang.dao.UserMapperTest]DEBUG:进入了testLog4j
+[ERROR][21-07-27][com.wang.dao.UserMapperTest]erro:进入了testLog4j
